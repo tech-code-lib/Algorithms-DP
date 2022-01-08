@@ -7,7 +7,11 @@ namespace HouseRobber
         static void Main(string[] args)
         {
             int[] nums = { 2, 7, 9, 3, 1};
-            int result = Rob2(nums);
+            //Call Rob with TC O(n), SC with o(n)
+            //int result = Rob(nums);
+
+            //Optimized Call Rob with TC O(n), SC with o(1)            
+            int result = Rob2(nums); 
             Console.WriteLine(result);
         }
 
