@@ -7,9 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestIncreasingSequence",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HouseRobber", "HouseRobber\HouseRobber.csproj", "{69485E70-D776-4A1C-9B9A-6645E763EF40}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TribonacciSeries", "TribonacciSeries\TribonacciSeries.csproj", "{CDD85540-79AD-4C4F-91A7-3DDA94C17B56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TribonacciSeries", "TribonacciSeries\TribonacciSeries.csproj", "{CDD85540-79AD-4C4F-91A7-3DDA94C17B56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteAndEarn", "DeleteAndEarn\DeleteAndEarn.csproj", "{62138820-AD00-4571-8D4C-683AD522CEAA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeleteAndEarn", "DeleteAndEarn\DeleteAndEarn.csproj", "{62138820-AD00-4571-8D4C-683AD522CEAA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaxMultiplicationResult", "MaxMultiplicationResult\MaxMultiplicationResult.csproj", "{34E9D63B-D047-4BC8-8259-C31B5E07122A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumDifficulty", "MinimumDifficulty\MinimumDifficulty.csproj", "{6C456824-1EA7-4692-B84D-390754559345}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{62138820-AD00-4571-8D4C-683AD522CEAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62138820-AD00-4571-8D4C-683AD522CEAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62138820-AD00-4571-8D4C-683AD522CEAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34E9D63B-D047-4BC8-8259-C31B5E07122A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34E9D63B-D047-4BC8-8259-C31B5E07122A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34E9D63B-D047-4BC8-8259-C31B5E07122A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34E9D63B-D047-4BC8-8259-C31B5E07122A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C456824-1EA7-4692-B84D-390754559345}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C456824-1EA7-4692-B84D-390754559345}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C456824-1EA7-4692-B84D-390754559345}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C456824-1EA7-4692-B84D-390754559345}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
