@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestCommonSubsequence", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OptimalStrategyOfAGame", "OptimalStrategyOfAGame\OptimalStrategyOfAGame.csproj", "{99380353-27A3-4979-8D29-E553FA875A60}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinChange", "CoinChange\CoinChange.csproj", "{ECB76C3A-CDFB-44F1-9E0D-743928477276}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{99380353-27A3-4979-8D29-E553FA875A60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99380353-27A3-4979-8D29-E553FA875A60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99380353-27A3-4979-8D29-E553FA875A60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECB76C3A-CDFB-44F1-9E0D-743928477276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECB76C3A-CDFB-44F1-9E0D-743928477276}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECB76C3A-CDFB-44F1-9E0D-743928477276}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECB76C3A-CDFB-44F1-9E0D-743928477276}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
