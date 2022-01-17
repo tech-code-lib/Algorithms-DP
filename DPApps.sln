@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumSizeSubSquareMatrix"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestCommonSubsequence", "LongestCommonSubsequence\LongestCommonSubsequence.csproj", "{6EDF68DB-81D8-4AB2-AA04-EC5BC39688AD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OptimalStrategyOfAGame", "OptimalStrategyOfAGame\OptimalStrategyOfAGame.csproj", "{99380353-27A3-4979-8D29-E553FA875A60}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{6EDF68DB-81D8-4AB2-AA04-EC5BC39688AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6EDF68DB-81D8-4AB2-AA04-EC5BC39688AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6EDF68DB-81D8-4AB2-AA04-EC5BC39688AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99380353-27A3-4979-8D29-E553FA875A60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99380353-27A3-4979-8D29-E553FA875A60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99380353-27A3-4979-8D29-E553FA875A60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99380353-27A3-4979-8D29-E553FA875A60}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
